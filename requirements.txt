@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+opencv-python
+pandas
+numpy
+xgboost
+requests
+dotenv
