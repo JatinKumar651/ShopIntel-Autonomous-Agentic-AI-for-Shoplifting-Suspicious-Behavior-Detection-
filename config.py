@@ -6,9 +6,9 @@ Edit these values with your own credentials.
 # Email Alert Configuration
 EMAIL_CONFIG = {
     "enabled": True,  # Set to True to enable email alerts
-    "sender_email": "jatintaak3106@gmail.com",  # Your Gmail address
-    "sender_password": "saym pjin nnua rmmh",  # Gmail App Password (16 characters)
-    "recipient_emails": ["jaani3196j@gmail.com"],  # Who to notify
+    "sender_email": "youremail@gmail.com",  # Your Gmail address
+    "sender_password": "your gmail app password",  # Gmail App Password (16 characters)
+    "recipient_emails": ["youremail@gmail.com"],  # Who to notify
 }
 
 # Slack Configuration
